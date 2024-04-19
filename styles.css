@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+
+#cabecalho{
+    height: 150px;
+    background-color: #b68df3;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+
+#menu{
+    height: 500px;
+    width: 400px;
+    background-color: greenyellow;
+    float: left;
+    margin-left: 37px;
+    margin-top: 10px;
+}
+
+#conteudo{
+    height: 500px;
+    width: 994px;
+    background-color: rgb(211, 223, 135);
+    float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+
+
+#rodape{
+    height: 100px;
+    background-color: pink;
+    clear: both;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
