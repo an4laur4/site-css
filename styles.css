@@ -11,7 +11,7 @@ body{
 
 #cabecalho{
     height: 150px;
-    background-color: #b68df3;
+    background-color: #b58cf2;
     width: 95%;
     margin: 0 auto;
     text-align: center;
@@ -23,28 +23,40 @@ body{
 #menu{
     height: 500px;
     width: 400px;
-    background-color: greenyellow;
+    background-color: #b58cf2;
     float: left;
     margin-left: 37px;
     margin-top: 10px;
 }
 
 #conteudo{
-    height: 500px;
+    height: 505px;
     width: 994px;
-    background-color: rgb(211, 223, 135);
+    background-color: #7e46d1;
     float: left;
     margin-top: 10px;
     margin-left: 5px;
 }
-
+table
 
 
 #rodape{
     height: 100px;
-    background-color: pink;
+    background-color: rgb(255, 255, 255);
     clear: both;
     width: 95%;
     margin: 0 auto;
     text-align: center;
+}
+
+button{
+    background-color: rgb(42, 75, 165);
+    border: 1px;
+    border-radius: 40px;
+    height: 90px;
+    width: 200px;
+    border-style:center;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 10px;
 }
