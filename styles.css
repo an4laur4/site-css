@@ -6,6 +6,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px;
+    background-color: #cac5d2;
 }
 
 
@@ -32,7 +33,7 @@ body{
 #conteudo{
     height: 505px;
     width: 994px;
-    background-color: #7e46d1;
+    background-color: #b58cf2;
     float: left;
     margin-top: 10px;
     margin-left: 5px;
